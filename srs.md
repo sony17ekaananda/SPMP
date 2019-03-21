@@ -12,3 +12,88 @@
 <br>
 &emsp;**1.3.**	**Definisi, akronim, singkatan**<br>
 &emsp;&emsp;Adapun definisi dari dokumen tersebut adalah:<br>
+<ol>
+<li>
+<table width="538">
+<tbody>
+<tr>
+<td width="37">
+<p><strong>No</strong></p>
+</td>
+<td width="189">
+<p><strong>Akronim</strong></p>
+</td>
+<td width="312">
+<p><strong>Singkatan</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>1.</strong></p>
+</td>
+<td width="189">
+<p>SPMP</p>
+</td>
+<td width="312">
+<p>Software Project Management Plan</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>2.</strong></p>
+</td>
+<td width="189">
+<p>SRS</p>
+</td>
+<td width="312">
+<p>Software Requirements Specifications</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>3.</strong></p>
+</td>
+<td width="189">
+<p>SDD</p>
+</td>
+<td width="312">
+<p>Software Design Document</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>4.</strong></p>
+</td>
+<td width="189">
+<p>DFD</p>
+</td>
+<td width="312">
+<p>Data Flow Diagram</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>5.</strong></p>
+</td>
+<td width="189">
+<p>IEEE</p>
+</td>
+<td width="312">
+<p>International Institute of Electronic and Electrical Engineers</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>6.</strong></p>
+</td>
+<td width="189">
+<p>CRUD</p>
+</td>
+<td width="312">
+<p>Create, Read, Update, dan Delete</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ol>
