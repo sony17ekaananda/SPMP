@@ -1,5 +1,5 @@
 ## BAB I 
-**PENDAHULUAN**
+**PENDAHULUAN** <br>
 &emsp;**1.1.**	**Gambaran Proyek**<br>
 &emsp;&emsp;Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) berbasis Website ini merupakan salah satu jenis perangkat lunak yang digunakan untuk membantu proses pengelolaan data dan pencatatan informasi yang terkait dengan informasi penjualan kerupuk pada PD Sri Tanjung. Yang mana sebelumnya pada perusahaan daerah ini proses pengelolaan data masih dilakukan secara manual, dimana pegawai harus mencatat sendiri apa-apa yang berkaitan dengan perusahaan tanpa menggunakan bantuan alat atau software apapun. Hal tersebut dinilai kurang efisien, sebab dapat menghabiskan banyak waktu hanya untuk melakukan pendataan saja. Untuk itu, kami membuat aplikasi ini untuk mempermudah baik itu pegawai maupun client yang ingin melihat detail produk yang ada hanya dengan bermodalkan gadget saja.<br><br>
 
@@ -115,7 +115,7 @@ Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara m
 
 
 ## BAB II 
-**ORGANISASI PROYEK**
+**ORGANISASI PROYEK** <br>
 &emsp;**2.1.**  **Model Proses** <br>
 &emsp;&emsp;Model proses yang digunakan dalam proyek ini menggunakan model waterfall, model waterfall ini memiliki tahapan- tahapan sebagai berikut: <br>
 &emsp;&emsp;**1.**	**Analisis Kebutuhan** <br>
@@ -170,7 +170,7 @@ Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara m
 
 
 ## BAB III
-**PROSES MANAJERIAL**
+**PROSES MANAJERIAL** 
 
 **3.1. Tujuan dan Proses Manajemen**
 
