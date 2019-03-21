@@ -12,8 +12,6 @@
 <br>
 &emsp;**1.3.**	**Definisi, akronim, singkatan**<br>
 &emsp;&emsp;Adapun definisi dari dokumen tersebut adalah:<br>
-<ol>
-<li>
 <table width="538">
 <tbody>
 <tr>
@@ -95,5 +93,3 @@
 </tr>
 </tbody>
 </table>
-</li>
-</ol>
