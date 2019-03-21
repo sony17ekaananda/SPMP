@@ -1,27 +1,27 @@
-BAB I <br>
-&emsp;PENDAHULUAN
-&emsp;1.1.	Gambaran Proyek
-&emsp;&emsp;Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) berbasis Website ini merupakan salah satu jenis perangkat lunak yang digunakan untuk membantu proses pengelolaan data dan pencatatan informasi yang terkait dengan informasi penjualan kerupuk pada PD Sri Tanjung. Yang mana sebelumnya pada perusahaan daerah ini proses pengelolaan data masih dilakukan secara manual, dimana pegawai harus mencatat sendiri apa-apa yang berkaitan dengan perusahaan tanpa menggunakan bantuan alat atau software apapun. Hal tersebut dinilai kurang efisien, sebab dapat menghabiskan banyak waktu hanya untuk melakukan pendataan saja. Untuk itu, kami membuat aplikasi ini untuk mempermudah baik itu pegawai maupun client yang ingin melihat detail produk yang ada hanya dengan bermodalkan gadget saja.
+**BAB I** <br>
+&emsp;**PENDAHULUAN**<br>
+&emsp;**1.1.**	**Gambaran Proyek**<br>
+&emsp;&emsp;Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) berbasis Website ini merupakan salah satu jenis perangkat lunak yang digunakan untuk membantu proses pengelolaan data dan pencatatan informasi yang terkait dengan informasi penjualan kerupuk pada PD Sri Tanjung. Yang mana sebelumnya pada perusahaan daerah ini proses pengelolaan data masih dilakukan secara manual, dimana pegawai harus mencatat sendiri apa-apa yang berkaitan dengan perusahaan tanpa menggunakan bantuan alat atau software apapun. Hal tersebut dinilai kurang efisien, sebab dapat menghabiskan banyak waktu hanya untuk melakukan pendataan saja. Untuk itu, kami membuat aplikasi ini untuk mempermudah baik itu pegawai maupun client yang ingin melihat detail produk yang ada hanya dengan bermodalkan gadget saja.<br><br>
 
-&emsp;1.2.	Dokumen-dokumen dalam Proyek
-&emsp;&emsp;Berikut ini adalah dokumen-dokumen yang digunakan dalam pembuatan proyek:
-&emsp;&emsp;&emsp;1)	Surat kebutuhan mitra
-&emsp;&emsp;&emsp;2)	SPMP
-&emsp;&emsp;&emsp;3)	SRS
-&emsp;&emsp;&emsp;4)	SDD
-&emsp;&emsp;&emsp;5)	Laporan Akhir
-&emsp;&emsp;&emsp;6)	Logbook
-&emsp;&emsp;&emsp;7)	Proposal
-&emsp;&emsp;&emsp;8)	MOU
+&emsp;**1.2.**	**Dokumen-dokumen dalam Proyek**<br>
+&emsp;&emsp;Berikut ini adalah dokumen-dokumen yang digunakan dalam pembuatan proyek:<br>
+&emsp;&emsp;&emsp;1)	Surat kebutuhan mitra<br>
+&emsp;&emsp;&emsp;2)	SPMP<br>
+&emsp;&emsp;&emsp;3)	SRS<br>
+&emsp;&emsp;&emsp;4)	SDD<br>
+&emsp;&emsp;&emsp;5)	Laporan Akhir<br>
+&emsp;&emsp;&emsp;6)	Logbook<br>
+&emsp;&emsp;&emsp;7)	Proposal<br>
+&emsp;&emsp;&emsp;8)	MOU<br><br>
 
-&emsp;1.3.	Evolusi SPMP
+&emsp;**1.3.**	**Evolusi SPMP**<br>
 &emsp;&emsp;Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal, atapun mengubah dokumen tanpa dasar yang jelas.
-Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara memperbarui dokumen apabila ada perubahan pada system aplikasi yang dibuat.  Dan semua anggota mempunyai backup dokumen.
+Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara memperbarui dokumen apabila ada perubahan pada system aplikasi yang dibuat.  Dan semua anggota mempunyai backup dokumen.<br><br>
 
-&emsp;1.4.	Material Acuan
-&emsp;&emsp;Standar dokumen yang digunakan sebagai acuan adalah standar IEEE (Institute of Electrical and Electronics Engineers).
+&emsp;**1.4.**	**Material Acuan**<br>
+&emsp;&emsp;Standar dokumen yang digunakan sebagai acuan adalah standar IEEE (Institute of Electrical and Electronics Engineers).<br><br>
 
-&emsp;1.5.	Definisi dan Akronim
+&emsp;**1.5.**	**Definisi dan Akronim**<br>
 <table width="557">
 <tbody>
 <tr>
@@ -106,7 +106,8 @@ Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara m
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
-
+<br>
+<br>
 
 
 
