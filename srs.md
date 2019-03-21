@@ -93,3 +93,15 @@
 </tr>
 </tbody>
 </table>
+<br>
+<br>
+
+&emsp;**1.4.**	**Referensi**<br>
+&emsp;&emsp;IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications.<br>
+<br>
+&emsp;**1.5.**	**Overview**<br>
+&emsp;&emsp;Penulisan dokumen SRS ini dibagi menjadi beberapa bab sebagai berikut:<br>
+&emsp;&emsp;&emsp;BAB I berisi pendahuluan, menjelaskan mengenai tujuan pembuatan dokumen SRS, lingkup, definisi (akronim, atau singkatan), referensi, dan Overview.<br>
+&emsp;&emsp;&emsp;BAB II menjelaskan keseluruhan deskripsi dari Aplikasi. Deskripsi umum tersebut memberikan gambaran lengkap mengenai semua fungsi yang akan dilakukan oleh sistem.<br>
+&emsp;&emsp;&emsp;BAB III berisi penjelasan detail dari  masing-masing kebutuhan lain yang spesifik.<br>
+&emsp;&emsp;&emsp;BAB IV berisikan tentang uraian mengenai informasi pendukung dalam pembuatan proyek Aplikasi ini.<br>
