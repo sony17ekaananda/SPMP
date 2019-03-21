@@ -1,3 +1,118 @@
+BAB I <br>
+&emsp;PENDAHULUAN
+&emsp;1.1.	Gambaran Proyek
+&emsp;&emsp;Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) berbasis Website ini merupakan salah satu jenis perangkat lunak yang digunakan untuk membantu proses pengelolaan data dan pencatatan informasi yang terkait dengan informasi penjualan kerupuk pada PD Sri Tanjung. Yang mana sebelumnya pada perusahaan daerah ini proses pengelolaan data masih dilakukan secara manual, dimana pegawai harus mencatat sendiri apa-apa yang berkaitan dengan perusahaan tanpa menggunakan bantuan alat atau software apapun. Hal tersebut dinilai kurang efisien, sebab dapat menghabiskan banyak waktu hanya untuk melakukan pendataan saja. Untuk itu, kami membuat aplikasi ini untuk mempermudah baik itu pegawai maupun client yang ingin melihat detail produk yang ada hanya dengan bermodalkan gadget saja.
+
+&emsp;1.2.	Dokumen-dokumen dalam Proyek
+&emsp;&emsp;Berikut ini adalah dokumen-dokumen yang digunakan dalam pembuatan proyek:
+&emsp;&emsp;&emsp;1)	Surat kebutuhan mitra
+&emsp;&emsp;&emsp;2)	SPMP
+&emsp;&emsp;&emsp;3)	SRS
+&emsp;&emsp;&emsp;4)	SDD
+&emsp;&emsp;&emsp;5)	Laporan Akhir
+&emsp;&emsp;&emsp;6)	Logbook
+&emsp;&emsp;&emsp;7)	Proposal
+&emsp;&emsp;&emsp;8)	MOU
+
+&emsp;1.3.	Evolusi SPMP
+&emsp;&emsp;Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal, atapun mengubah dokumen tanpa dasar yang jelas.
+Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara memperbarui dokumen apabila ada perubahan pada system aplikasi yang dibuat.  Dan semua anggota mempunyai backup dokumen.
+
+&emsp;1.4.	Material Acuan
+&emsp;&emsp;Standar dokumen yang digunakan sebagai acuan adalah standar IEEE (Institute of Electrical and Electronics Engineers).
+
+&emsp;1.5.	Definisi dan Akronim
+<table width="557">
+<tbody>
+<tr>
+<td width="37">
+<p><strong>No</strong></p>
+</td>
+<td width="198">
+<p><strong>Akronim</strong></p>
+</td>
+<td width="321">
+<p><strong>Arti</strong></p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>1</strong></p>
+</td>
+<td width="198">
+<p>IEEE</p>
+</td>
+<td width="321">
+<p>Institute of Electrical and Electronics Engineers merupakan standar internasional untuk perancangan perangkat lunak</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>2</strong></p>
+</td>
+<td width="198">
+<p>ERD</p>
+</td>
+<td width="321">
+<p>Entity Relatioship Diagram</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>3</strong></p>
+</td>
+<td width="198">
+<p>DFD</p>
+</td>
+<td width="321">
+<p>Data Flow Diagram</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>4</strong></p>
+</td>
+<td width="198">
+<p>CRUD</p>
+</td>
+<td width="321">
+<p>Create, Read, Update, Delete</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>5</strong></p>
+</td>
+<td width="198">
+<p>SPMP</p>
+</td>
+<td width="321">
+<p>Software Project Management Plan</p>
+</td>
+</tr>
+<tr>
+<td width="37">
+<p><strong>6</strong></p>
+</td>
+<td width="198">
+<p>SRS</p>
+</td>
+<td width="321">
+<p>Software Requirement Spesification</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+
+
+
+
+
+
+
 BAB II <br>
 &emsp;ORGANISASI PROYEK <br>
 &emsp;**2.1.**  **Model Proses** <br>
