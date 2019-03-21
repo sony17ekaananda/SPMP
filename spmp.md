@@ -220,3 +220,34 @@ Monitoring dan kontroling dilakukan dengan cara mengadakan rapat apabila ada ses
 
 &emsp;**4.3.** **Fungsi-fungsi Pendukung Proyek**<br>
 &emsp;&emsp;Aplikasi ini membutuhkan sistem analisis dan database administrator masing-masing satu orang agar tidak ada yang memiliki tugas rangkap dalam pengerjaan aplikasi ini.
+<p><strong>BAB V </strong></p>
+<p><strong>PAKET PEKERJAAN, JADWAL DAN BUDGET</strong></p>
+<ul>
+<li><strong> Paket Pekerjaan</strong></li>
+</ul>
+<ol>
+<li>Project Manager: Sony Eka Ananda</li>
+</ol>
+<ul>
+<li>Mengawasi seluruh proses pengerjaan proyek dan memastikan setiap tahapan pembuatan proyek berjalan sesuai target.</li>
+<li>Mengawasi seluruh personil tim dalam pengerjaan proyek</li>
+</ul>
+<ol start="2">
+<li>Back End: Aduar Jendi</li>
+</ol>
+<ul>
+<li>Membuat program untuk fitur- fitur yang ada pada aplikasi agar berfungsi.</li>
+</ul>
+<ol start="3">
+<li>Dokumentasi &amp; Front End: Tika Surtikayati</li>
+</ol>
+<ul>
+<li>Membuat dokumen- dokumen yang dibutuhkan dalam proses pembuatan aplikasi.</li>
+<li>Membuat Mockup</li>
+<li>Membuat Desain Aplikasi</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Ketergantungan dan Keterkaitan</strong></li>
+</ul>
+<p>Hubungan antara project manager dengan seluruh bagian personal sebagai pengatur semuanya dan memastikan semua langkah yang dilakukan sesuai tujuan pembuatan aplikasi. Back end mengaplikasikan semua fitur yang telah dibuat oleh Fron end dan dokumentasi membuat dokumen dari apa yang dilakukan project manager dan bagian personal lain.</p>
