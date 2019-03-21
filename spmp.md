@@ -1,5 +1,5 @@
-##BAB I 
-##PENDAHULUAN
+## BAB I 
+**PENDAHULUAN**
 &emsp;**1.1.**	**Gambaran Proyek**<br>
 &emsp;&emsp;Aplikasi Pendataan Terpusat dan Informasi Produk Usaha Kerupuk Indramayu (PD Sri Tanjung) berbasis Website ini merupakan salah satu jenis perangkat lunak yang digunakan untuk membantu proses pengelolaan data dan pencatatan informasi yang terkait dengan informasi penjualan kerupuk pada PD Sri Tanjung. Yang mana sebelumnya pada perusahaan daerah ini proses pengelolaan data masih dilakukan secara manual, dimana pegawai harus mencatat sendiri apa-apa yang berkaitan dengan perusahaan tanpa menggunakan bantuan alat atau software apapun. Hal tersebut dinilai kurang efisien, sebab dapat menghabiskan banyak waktu hanya untuk melakukan pendataan saja. Untuk itu, kami membuat aplikasi ini untuk mempermudah baik itu pegawai maupun client yang ingin melihat detail produk yang ada hanya dengan bermodalkan gadget saja.<br><br>
 
@@ -115,7 +115,7 @@ Dokumen akan dirawat dan disimpan oleh tim yang mengerjakan proyek dengan cara m
 
 
 ## BAB II 
-##ORGANISASI PROYEK 
+**ORGANISASI PROYEK**
 &emsp;**2.1.**  **Model Proses** <br>
 &emsp;&emsp;Model proses yang digunakan dalam proyek ini menggunakan model waterfall, model waterfall ini memiliki tahapan- tahapan sebagai berikut: <br>
 &emsp;&emsp;**1.**	**Analisis Kebutuhan** <br>
@@ -201,3 +201,22 @@ Monitoring dan kontroling dilakukan dengan cara mengadakan rapat apabila ada ses
 1. Project Manager : Sony Eka Ananda
 2. Front End & Dokumentasi : Tika Surtikayati
 3. Back End : Aduar Jendi
+
+## BAB IV
+**PROSES TEKNIS** <br>
+&emsp;**4.1.** **Metode, Tools dan Teknik** <br>
+&emsp;&emsp;&emsp;**1.**	**Metoda** <br>
+&emsp;&emsp;&emsp;&emsp;Metoda yang digunakan untuk pembuatan aplikasi ini adalah dengan mengamati kebutuhan, mendesain, implementasi, integrase, dan uji coba. <br>
+&emsp;&emsp;&emsp;**2.**	**Tools** <br>
+&emsp;&emsp;&emsp;&emsp;Tools yang digunakan dalam pembuatan aplikasi ini antara lain: Laragon, Sublime Text 3, Browser. <br>
+&emsp;&emsp;&emsp;**3.**	**Teknik**  <br>
+&emsp;&emsp;&emsp;&emsp;Teknik yang digunakan untuk membuat aplikasi ini adalah dengan menganalisis kebutuhan, kemudian melakukan implementasi terhadap hasil analisis tersebut, dan melakukan uji coba untuk memeriksa kelayakan aplikasi. <br><br>
+
+&emsp;**4.2.** **Dokumentasi Perangkat Lunak**<br> 
+&emsp;&emsp;Untuk menjamin kualitas aplikasi yang dibuat kami menggunakan cara:<br> 
+&emsp;&emsp;&emsp;1.	Melakukan analisa kebutuhan<br> 
+&emsp;&emsp;&emsp;2.	Mengimplementasikan kedalam aplikasi<br> 
+&emsp;&emsp;&emsp;3.	Melakukan uji coba ketika ada perubahan<br> <br>
+
+&emsp;**4.3.** **Fungsi-fungsi Pendukung Proyek**<br>
+&emsp;&emsp;Aplikasi ini membutuhkan sistem analisis dan database administrator masing-masing satu orang agar tidak ada yang memiliki tugas rangkap dalam pengerjaan aplikasi ini.
